@@ -1,1 +1,20 @@
- a{}
+ body{
+    background: rgb(255, 255, 235);
+ }
+ div{
+    color:crimson;
+    font-family: Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic  ;
+}
+
+a img{
+    height: 200px;
+}
+li{
+    color:black;
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+}
